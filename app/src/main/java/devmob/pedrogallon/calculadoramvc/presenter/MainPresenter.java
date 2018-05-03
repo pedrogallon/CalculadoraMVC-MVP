@@ -20,6 +20,10 @@ public class MainPresenter implements Presenter {
         view.setResultado(model.getResultado());
     }
 
+    public String getResultado(){
+        return model.getResultado();
+    }
+
     public MainPresenter(MainView view){
         this.view = view;
     }

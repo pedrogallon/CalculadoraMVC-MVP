@@ -1,4 +1,4 @@
-package devmob.pedrogallon.calculadoramvc;
+package devmob.pedrogallon.calculadoramvc.model;
 
 import org.junit.Test;
 
